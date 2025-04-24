@@ -1,5 +1,5 @@
 # jeru2104
-<h1 align="center">Hi, I'm Jeru 👋</h1>
+<h1 align="center">Hi, I'm Jerusha👋</h1>
 
 <p align="center">
   Aspiring Data Scientist | Python & Machine Learning Enthusiast | Project Builder 🚀
